@@ -1,10 +1,10 @@
 {
   "repos":[
     {
-      "repository": "cogna-rematricula-anhanguera",
+      "repository": "adobe-lp-rematricula-anhaguera",
       "favicon": "icon-anhaguera.png",
       "adobe-challenge": "769e6b02-e4ee-4a06-8117-cf29b63e50f9",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-anhanguera/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/adobe-lp-rematricula-anhaguera/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-anhanguera/:/",
@@ -23,10 +23,10 @@
       }
     },
     {
-      "repository": "cogna-rematricula--unopar",
+      "repository": "cogna-lp-rematricula-unopar",
       "favicon": "icon-unopar.png",
       "adobe-challenge": "9a3dc9d9-f5c2-4c31-9a20-95ae4d475d65",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-unopar/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/cogna-lp-rematricula-unopar/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-unopar/:/",
@@ -45,10 +45,10 @@
       }
     },
     {
-      "repository": "cogna-rematricula-unic",
+      "repository": "adobe-lp-rematricula-unic",
       "favicon": "icon-unic.png",
       "adobe-challenge": "06214e81-251a-4663-8348-4e39d2d5e3e5",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-unic/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/adobe-lp-rematricula-unic/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-unic/:/",
@@ -67,10 +67,10 @@
       }
     },
     {
-      "repository": "cogna-rematricula-uniderp",
+      "repository": "adobe-lp-rematricula-uniderp",
       "favicon": "icon-uniderp.png",
       "adobe-challenge": "cd245f24-089d-4244-8d63-af43b4c44c3f",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-uniderp/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/adobe-lp-rematricula-uniderp/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-uniderp/:/",
@@ -89,10 +89,10 @@
       }
     },
     {
-      "repository": "cogna-rematricula-unime",
+      "repository": "adobe-lp-rematricula-unime",
       "favicon": "icon-unime.png",
       "adobe-challenge": "013461ae-b7a7-4e93-bc63-41e8317c20f3",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-unime/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/adobe-lp-rematricula-unime/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-unime/:/",
@@ -111,10 +111,10 @@
       }
     },
     {
-      "repository": "cogna-rematricula-pitagoras",
+      "repository": "adobe-lp-rematricula-pitagoras",
       "favicon": "icon-pitagoras.png",
       "adobe-challenge": "7edec418-e6cf-4ad9-af82-ee9e8cc5da39",
-      "fstab": "https://author-p108377-e1558767.adobeaemcloud.com/bin/franklin.delivery/netbiis/cogna-rematricula-pitagoras/main",
+      "fstab": "https://author-p136102-e1403896.adobeaemcloud.com/bin/franklin.delivery/cogna-edu/adobe-lp-rematricula-pitagoras/main",
       "paths": {
         "mappings": [
           "/content/lp-rematricula-pitagoras/:/",

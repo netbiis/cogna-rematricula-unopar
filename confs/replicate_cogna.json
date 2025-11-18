@@ -19,7 +19,7 @@
         "project": "Rematrícula Antecipada | Anhanguera",
         "editUrlLabel": "AEM Editor",
         "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-        "host" : "https://rematricula.anhanguera.com"
+        "host" : "rematricula.anhanguera.com"
       }
     },
     {
@@ -63,7 +63,7 @@
         "project": "Rematrícula Antecipada | Unic",
         "editUrlLabel": "AEM Editor",
         "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-        "host" : "https://rematricula.unic.com.br"
+        "host" : "rematricula.unic.com.br"
       }
     },
     {
@@ -85,7 +85,7 @@
         "project": "Rematrícula Antecipada | Uniderp",
         "editUrlLabel": "AEM Editor",
         "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-        "host" : "https://rematricula.uniderp.com.br"
+        "host" : "rematricula.uniderp.com.br"
       }
     },
     {
@@ -107,7 +107,7 @@
         "project": "Rematrícula Antecipada | Unime",
         "editUrlLabel": "AEM Editor",
         "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-        "host" : "https://rematricula.unime.edu.br"
+        "host" : "rematricula.unime.edu.br"
       }
     },
     {
@@ -129,7 +129,7 @@
         "project": "Rematrícula Antecipada | Pitagoras",
         "editUrlLabel": "AEM Editor",
         "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-        "host" : "https://rematricula.pitagoras.com.br"
+        "host" : "rematricula.pitagoras.com.br"
       }
     }
   ]

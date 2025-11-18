@@ -1,5 +1,6 @@
 {
-  "project": "AEM XWalk Boilerplate",
+  "project": "Rematrícula Antecipada | Unopar",
   "editUrlLabel": "AEM Editor",
-  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open"
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
+  "host": "rematricula.unopar.com.br"
 }

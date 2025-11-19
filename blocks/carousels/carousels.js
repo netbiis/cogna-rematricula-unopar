@@ -3,7 +3,7 @@
 import { mobileViewService } from '../../scripts/aem.js';
 import { fetchPlaceholders } from '../../scripts/placeholders.js';
 
-  function updateActiveSlide(slide) {
+function updateActiveSlide(slide) {
   const block = slide.closest('.carousel');
   const slideIndex = parseInt(slide.dataset.slideIndex, 10);
   block.dataset.activeSlide = slideIndex;
@@ -107,7 +107,7 @@ function createSlide(row, slideIndex, carouselId) {
 let carouselId = 0;
 export default async function decorate(block) {
   const { hostname } = window.location;
-  if (!hostname.includes('adobeaemcloud.com')){
+  if (!hostname.includes('adobeaemcloud.com')) {
     block.className = 'carousel';
 
     carouselId += 1;

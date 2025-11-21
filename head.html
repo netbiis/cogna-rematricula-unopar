@@ -18,7 +18,10 @@
   } else if (hostname.includes('stage--')) {
     // STAGE
     document.write('<script src="https://assets.adobedtm.com/9fe9cc3d585d/44e08659f1cc/launch-da0eba58d523-staging.min.js" async><\/script>');
-  } else if (hostname.includes('main--') || hostname.includes('meusite.com')) {
+  } else if (hostname.includes('main--') || hostname.includes('rematricula.')) {
+    // PROD
+    document.write('<script src="https://assets.adobedtm.com/9fe9cc3d585d/44e08659f1cc/launch-a3f89e1cdc79.min.js" async><\/script>');
+  } else {
     // PROD
     document.write('<script src="https://assets.adobedtm.com/9fe9cc3d585d/44e08659f1cc/launch-a3f89e1cdc79.min.js" async><\/script>');
   }

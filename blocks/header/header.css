@@ -191,7 +191,7 @@ header nav .nav-sections ul>li {
 
 header nav .nav-sections ul>li>a::after {
     content: ' ';
-    background-color: var(--color-main); 
+    background-color: var(--color-main);
     width: calc(100% + 4px);
     height: 0;
     display: block;
@@ -310,4 +310,13 @@ header nav .nav-sections ul>li>ul>li {
 /* tools */
 header nav .nav-tools {
     grid-area: tools;
+}
+
+/* Custom Brands */
+header nav div.section.pattern-orange .default-content-wrapper p .button{
+  background: linear-gradient(180deg, var(--color-highlight) 0%, var(--color-emphasize) 100%);
+}
+
+header nav .nav-sections.pattern-orange ul>li>a::after{
+  background-color: var(--color-highlight);
 }

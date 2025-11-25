@@ -678,10 +678,11 @@ h3 u span::after {
 
         .button,
         a.button:any-link {
-            background-image: url('data:image/svg+xml,  <svg width="57" height="57" viewBox="0 0 57 57" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.0801 0C43.5883 2.5784e-07 56.16 12.5783 56.1602 28.0947C56.1602 43.6113 43.5884 56.1904 28.0801 56.1904C12.5717 56.1904 0 43.6113 0 28.0947C0.000204765 12.5783 12.5719 0 28.0801 0ZM22.25 16.2852C21.3471 15.7652 20.2178 16.4146 20.2178 17.4551V37.6113C20.2178 38.6518 21.3471 39.3012 22.25 38.7812L39.7578 28.7041C40.6608 28.1838 40.6608 26.8855 39.7578 26.3652V26.3623L22.25 16.2852Z" fill="white"/></svg>');
+            background-image: url('data:image/svg+xml,  <svg width="57" height="57" viewBox="0 0 57 57" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.0801 0C43.5883 2.5784e-07 56.16 12.5783 56.1602 28.0947C56.1602 43.6113 43.5884 56.1904 28.0801 56.1904C12.5717 56.1904 0 43.6113 0 28.0947C0.000204765 12.5783 12.5719 0 28.0801 0ZM22.25 16.2852C21.3471 15.7652 20.2178 16.4146 20.2178 17.4551V37.6113C20.2178 38.6518 21.3471 39.3012 22.25 38.7812L39.7578 28.7041C40.6608 28.1838 40.6608 26.8855 39.7578 26.3652V26.3623L22.25 16.2852Z" fill="red"/></svg>');
             background-size: contain;
             background-repeat: no-repeat;
-            opacity: .5;
+            background-color: #FFF;
+            opacity: .9;
             font-size: 0;
             color: transparent;
             border-radius: 100%;
